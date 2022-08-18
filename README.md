@@ -1,2 +1,2 @@
-# oai-stock
+# oai_stock
 Odoo Addons Improvement - Stock
